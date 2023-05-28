@@ -2,7 +2,7 @@
 #### Web Developer
 I am an ambitious individual passionate Web Developer. I’m also an innovative thinker working towards developing technological solutions that will be impactful.
 
-Skills: HTML,CSS,JAVASCRIPT,REACTJS,NODE JS , EXPRESS JS, MONGODB.
+Skills: HTML,CSS,JavaScript,ReactJs, NodeJs Express js, Mongodb.
 
 - 🌱 I’m currently learning NextJs,PHP 
 - 👯 I’m looking to collaborate on github 
