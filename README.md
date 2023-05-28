@@ -14,16 +14,4 @@ Skills: HTML,CSS,JAVASCRIPT,REACTJS,NODE JS , EXPRESS JS, MONGODB.
 
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=https://github.com/loknathsd)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/loknathsd)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=https://github.com/loknathsd&show_icons=true)  
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=https://github.com/loknathsd)  
-
-![GitHub metrics](https://metrics.lecoq.io/https://github.com/loknathsd)  
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=https://github.com/loknathsd)  
-
-![Profile views](https://gpvc.arturio.dev/https://github.com/loknathsd)  
